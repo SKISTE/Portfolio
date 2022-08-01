@@ -22,7 +22,7 @@ body::-webkit-scrollbar-button{
 }
 body::-webkit-scrollbar{
     background: transparent;
-    width: 5px;
+    width: 3px;
     border-left: 1px solid black;
 }
 a{
