@@ -32,3 +32,10 @@ a{
 a:visited{
     color: var(--text-color);
 }
+.url{
+    border-bottom: 1px solid black;
+}
+.git::before{
+    content: '\f09b';
+    font-family: 'FontAwesome';
+}
